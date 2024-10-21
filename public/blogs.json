@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://media.istockphoto.com/id/1477183258/photo/woman-holding-ai-icons-with-laptop.jpg?s=2048x2048&w=is&k=20&c=MA1k1nBkIMKaZpeFk0dA1c4CqUNuEM9HySINPgkC0TE=",
+      "title": "The Art of Coffee Brewing",
+      "author": "John Doe",
+      "author_id": 101,
+      "author_name": "John Doe",
+      "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["coffee", "brewing", "cafe", "beverage"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://media.istockphoto.com/id/860887528/photo/whats-your-story-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=IkAjduoBDMOkFdqvJXpIN-8HoT7oUTdupABbl6p_nRE=",
+      "title": "Mastering Latte Art",
+      "author": "Emma Watson",
+      "author_id": 102,
+      "author_name": "Emma Watson",
+      "author_img": "https://cdn.pixabay.com/photo/2015/03/26/09/46/coffee-690054_960_720.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 7,
+      "hashtags": ["latte", "art", "barista", "cafe"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://media.istockphoto.com/id/1241881284/photo/hands-of-cook-photographing-mexican-tacos.webp?a=1&b=1&s=612x612&w=0&k=20&c=Dxx96eM648wlNM4UrhBgYi3OFwj1s2inxk_bO2IpuVM=",
+      "title": "Evening Coffee Rituals",
+      "author": "Alex Johnson",
+      "author_id": 103,
+      "author_name": "Alex Johnson",
+      "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "posted_date": "2024-10-10",
+      "reading_time": 8,
+      "hashtags": ["evening", "relaxation", "cafe", "rituals"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://media.istockphoto.com/id/480187760/photo/female-novelist-writing-on-the-laptop.webp?a=1&b=1&s=612x612&w=0&k=20&c=Z9YJ8GY1d_Z7HgraIA2KJ4iC5ct_QwuhCc7It974rnY=",
+      "title": "Health Benefits of Black Coffee",
+      "author": "Sara Lee",
+      "author_id": 104,
+      "author_name": "Sara Lee",
+      "author_img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+      "posted_date": "2024-09-30",
+      "reading_time": 6,
+      "hashtags": ["blackcoffee", "health", "cafe", "benefits"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://media.istockphoto.com/id/1014974702/photo/travel-planning.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ki2Kz4Gm_DIRfNpRUx1YY7zFQ2n2NlU9Z4T1SfG_Bas=",
+      "title": "Top 10 Coffee Recipes You Must Try",
+      "author": "Michael Lee",
+      "author_id": 105,
+      "author_name": "Michael Lee",
+      "author_img": "https://cdn.pixabay.com/photo/2016/01/19/17/49/person-1148916_960_720.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 10,
+      "hashtags": ["recipes", "coffee", "cafe", "top10"]
+    },
+    {
+      "id": 6,
+      "cover_img": "https://media.istockphoto.com/id/1795222044/photo/writing-text-document-online-content-book-letter-or-essay-writer-journalist-or-freelance.jpg?s=612x612&w=0&k=20&c=plOVL_0cHlR8xJnQTAUEbTzYCd21f2pznrUuDFllWhg=",
+      "title": "How to Make Espresso at Home",
+      "author": "Lucy Brown",
+      "author_id": 106,
+      "author_name": "Lucy Brown",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "posted_date": "2024-10-11",
+      "reading_time": 9,
+      "hashtags": ["espresso", "home", "cafe", "tutorial"]
+    },
+    {
+      "id": 7,
+      "cover_img": "https://media.istockphoto.com/id/855341578/photo/creativity-checked.jpg?s=612x612&w=0&k=20&c=Gi_EZ-NwgcTz1jy4Jq06HLmSB0_VJA46ynrb_1au0po=",
+      "title": "The Science of Coffee Roasting",
+      "author": "David Green",
+      "author_id": 107,
+      "author_name": "David Green",
+      "author_img": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg",
+      "posted_date": "2024-10-02",
+      "reading_time": 12,
+      "hashtags": ["roasting", "science", "cafe", "coffee"]
+    },
+    {
+      "id": 8,
+      "cover_img": "https://media.istockphoto.com/id/537706522/photo/overhead-image-of-a-female-blogger-writing-on-the-laptop.jpg?s=612x612&w=0&k=20&c=DLQWu1ss06K9oEeW6R1tIpGMn58ZlgFyj_wrOWKRFn0=",
+      "title": "Decaf vs Regular Coffee",
+      "author": "Anna White",
+      "author_id": 108,
+      "author_name": "Anna White",
+      "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "posted_date": "2024-09-20",
+      "reading_time": 4,
+      "hashtags": ["decaf", "coffee", "comparison", "cafe"]
+    },
+    {
+      "id": 9,
+      "cover_img": "https://media.istockphoto.com/id/1312418309/photo/visual-contents-concept-social-networking-service-streaming-video-communication-network-3d.jpg?s=612x612&w=0&k=20&c=2wop2q3V2_nHCc4X7ISInzRA3Bp52UHAX0tTgKNWeBQ=",
+      "title": "Seasonal Coffee Drinks to Try",
+      "author": "Oliver Smith",
+      "author_id": 109,
+      "author_name": "Oliver Smith",
+      "author_img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "posted_date": "2024-10-09",
+      "reading_time": 5,
+      "hashtags": ["seasonal", "coffee", "drinks", "cafe"]
+    },
+    {
+      "id": 10,
+      "cover_img": "https://media.istockphoto.com/id/1502962007/photo/letterpress-background-close-up-of-many-old-random-metal-letters-with-copy-space.jpg?s=612x612&w=0&k=20&c=DJ4mzn3Bi8xsexaOFeYEFM_B4jljpXIfpu6XqrnVrYs=",
+      "title": "Coffee and Mental Health: Myths vs Facts",
+      "author": "Sophia Adams",
+      "author_id": 110,
+      "author_name": "Sophia Adams",
+      "author_img": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg",
+      "posted_date": "2024-09-25",
+      "reading_time": 7,
+      "hashtags": ["mentalhealth", "coffee", "cafe", "wellbeing"]
+    }
+  ]
+  

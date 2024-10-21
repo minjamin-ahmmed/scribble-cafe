@@ -1,11 +1,17 @@
 import './App.css'
+import Blogs from './Components/Blogs/Blogs'
+import Header from './Components/Header/Header'
 
 function App() {
 
 
   return (
     <>
-     <h1 className='text-5xl font-bold'>Knowledge Cafe</h1>
+    <div className='w-11/12 mx-auto py-5'>
+      <Header></Header>
+      <Blogs></Blogs>
+    </div>
+    
     </>
   )
 }
